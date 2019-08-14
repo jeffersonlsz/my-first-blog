@@ -11,8 +11,6 @@ from blog.models import Post
 
 from django.utils import timezone
 
-
-
 if __name__ == '__main__':
 
     faker = Faker('pt_BR')
